@@ -16,7 +16,7 @@ To reproduce the results using the PRISM dataset, run:
 python3 -m src/run_experiment.py
 ```
 
-In the *Notebooks* folder, there are several jupyter notebooks with plots showing this results.
+In the *Notebooks* folder, there are several jupyter notebooks with plots showing these results.
 
 ## Simulating data
 
